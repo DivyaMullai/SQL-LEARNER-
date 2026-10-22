@@ -1,0 +1,9 @@
+order_id,customer,region,product,category,qty,price,order_date,discount
+101,Priya,NSW,Laptop,Electronics,1,1200,10-01-2026,100
+102,Tom,VIC,Mouse,Accessories,3,25,15-01-2026,
+103,Sara,QLD,Monitor,Electronics,2,300,03-02-2026,50
+104,Arjun,NSW,Desk,Furniture,1,450,18-02-2026,
+105,Mei,WA,Keyboard,Accessories,2,80,07-03-2026,10
+106,Liam,VIC,Chair,Furniture,4,150,21-03-2026,0
+107,Aisha,NSW,Headphones,Accessories,1,200,02-04-2026,
+108,Carlos,QLD,Laptop,Electronics,2,1200,12-04-2026,200
