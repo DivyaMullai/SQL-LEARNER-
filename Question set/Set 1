@@ -1,0 +1,45 @@
+Level 1: Comparison & logical operators:
+
+Q1. List all orders where the price is more than 500.
+
+Q2. Find orders from NSW with quantity of 1.
+
+Q3. Find orders that are in either the Furniture category or have a price above 1000.
+
+Q4. List all orders not from VIC.
+
+Level 2: BETWEEN and IN
+
+Q5. Find orders placed between 1 February 2026 and 31 March 2026.
+
+Q6. List orders from NSW, QLD, or WA using IN.
+
+Q7. Find orders where quantity is between 2 and 3 and the category is Accessories.
+
+Level 3: LIKE
+
+Q8. Find customers whose name starts with A.
+
+Q9. Find products whose name contains the letters er.
+
+Q10. Find customers whose name has exactly 3 letters.
+
+Level 4: NULL handling
+
+Q11. List orders that have no discount recorded.
+
+Q12. List orders where discount is less than 100. Which rows come back, and why is order 102 missing?
+
+Level 5: Arithmetic + filtering (analytics style)
+
+Q13. Show order_id and total_revenue (qty * price) for all orders.
+
+Q14. Show only orders where total revenue is above 600.
+
+Q15. Show order_id and net_revenue (qty * price - discount) for orders where a discount exists.
+
+Level 6: Business scenarios (combine everything)
+
+Q16. The manager wants high-value Electronics or Furniture orders (total revenue above 500) from NSW or QLD, with a discount recorded. Write one query.
+
+Q17. Find Accessories orders placed in 2026 Q1 (Jan to Mar), where the customer name does not start with M.
